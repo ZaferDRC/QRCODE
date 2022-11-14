@@ -4,8 +4,7 @@
 <br>
 pip install qrcode pillow
 ```
-asddas
+cd asdasdasda
 ```
-
 dsdasdasddsadas
 sdasdsa
